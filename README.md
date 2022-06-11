@@ -1,9 +1,9 @@
 nes (40 sloc)  2.26 KB
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px" width="10px">, Giancarlo here</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px" width="10px">, how are you?</h1>
 
-- 🔥 Jr Web Developer 
+- 🔥 Front-EndDeveloper 
 
 
 
@@ -26,7 +26,7 @@ nes (40 sloc)  2.26 KB
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=vision-friendly-dark" alt="tonnon stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnona&layout=compact&theme=vision-friendly-dark" alt="tonnon most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=vision-friendly-dark" alt="tonnon most languages"/>
 </p>
 
 <br><br>
