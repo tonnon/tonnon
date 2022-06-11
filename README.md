@@ -31,9 +31,7 @@
 
 <br><br>
 
-  
   ##
- 
  
   ![Snake animation](https://github.com/tonnon/tonnon/blob/output/github-contribution-grid-snake.svg)
  
