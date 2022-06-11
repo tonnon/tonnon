@@ -1,6 +1,3 @@
-nes (40 sloc)  2.26 KB
-
-
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px" width="10px"> 
    Hi, how are you?
