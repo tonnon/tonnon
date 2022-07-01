@@ -24,7 +24,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <div style="margin-right: 30px;">
+  <div style="margin-bottom: 30px;">
     <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
   </div>
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
