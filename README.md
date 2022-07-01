@@ -26,7 +26,7 @@
 <div>
     <img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=vision-friendly-dark" alt="tonnon most languages"/>
     
-<br><br>
+<br>
 
   <img width="520em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=vision-friendly-dark" alt="tonnon stats"/>
 </div>
