@@ -24,11 +24,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=vision-friendly-dark" alt="tonnon most languages"/>
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
     
 <br>
 
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=vision-friendly-dark" alt="tonnon stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
 </div>
 
 <br>
