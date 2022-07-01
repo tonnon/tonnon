@@ -20,7 +20,7 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-&nbsp;
+
 <div>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
   
