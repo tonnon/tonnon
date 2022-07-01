@@ -5,7 +5,6 @@
 
 - 🔥 Front-EndDeveloper 
 
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -18,16 +17,13 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 &nbsp;
 <div>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
-  
   &nbsp; 
-  
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
 </div>
 
