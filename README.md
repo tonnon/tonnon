@@ -1,4 +1,4 @@
-<p align="center"> 🔥 Front-End Developer 🔥 </p>
+<p align="center" size="24px"> 🔥 Front-End Developer 🔥 </p>
 
 <br>
 
