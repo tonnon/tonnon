@@ -1,5 +1,9 @@
-
-<h2 style="border: none;">🔥 Front-End Developer 🔥</h2>
+<style>
+  h2 {
+    border: none;
+  }
+</style>
+<h2 >🔥 Front-End Developer 🔥</h2>
 
 <br>
 
