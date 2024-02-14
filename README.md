@@ -1,6 +1,3 @@
-<h1 align="left">
-   Hi, how are you?
-</h1>
 
 🔥  Front-End Developer 🔥
 
