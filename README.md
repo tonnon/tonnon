@@ -1,5 +1,5 @@
 
-<h2 color='red'>🔥 Front-End Developer 🔥</h2>
+<h2 style="color: red">🔥 Front-End Developer 🔥</h2>
 
 <br>
 
