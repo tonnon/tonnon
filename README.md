@@ -2,7 +2,7 @@
    Hi, how are you?
 </h1>
 
-🔥 <h1> Front-End Developer <h1> 🔥
+<h1>🔥  Front-End Developer 🔥<h1> 
 
 <br>
 
