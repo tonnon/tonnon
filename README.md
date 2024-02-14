@@ -50,11 +50,11 @@
 ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
+  <img width=400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
   <img src="https://streak-stats.demolab.com?user=tonnon&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak" />
   &nbsp; 
   
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
 </div>
 
   ##
