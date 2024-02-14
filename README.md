@@ -51,7 +51,7 @@
 
 <div>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tonnon&theme=dark&hide_border=true&card_width=595)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tonnon&theme=dark&hide_border=true&card_width=595" alt="GitHub Streak" /></a>
   &nbsp; 
   
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
