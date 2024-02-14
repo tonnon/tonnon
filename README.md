@@ -1,4 +1,4 @@
-🔥 Front-End Developer 🔥
+<p align="center"> 🔥 Front-End Developer 🔥 </p>
 
 <br>
 
