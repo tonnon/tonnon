@@ -51,7 +51,7 @@
 
 <div>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
-  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tonnon&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
   &nbsp; 
   
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
