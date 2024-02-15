@@ -56,8 +56,8 @@
 &nbsp;
 
 <div align="center">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=tonnon&hide_border=true&show_icons=true&theme=midnight-purple" alt="tonnon stats"/> &nbsp;
-  <img width=400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&hide_border=true&theme=midnight-purple" alt="tonnon most languages" />
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=tonnon&hide_border=true&show_icons=true&theme=midnight-purple" alt="tonnon stats"/> &nbsp;
+  <img width=300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&hide_border=true&theme=midnight-purple" alt="tonnon most languages" />
 </div>
 
 ![gif](https://github.com/tonnon/tonnon/blob/output/github-contribution-grid-snake.svg)
