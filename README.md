@@ -56,7 +56,7 @@
 &nbsp;
 
 <div align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=tonnon&hide_border=false&border_stroke=00000&show_icons=true&bg_color=C000000,C110A12A9" alt="tonnon stats"/> &nbsp;
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=tonnon&hide_border=false&border_stroke=00000&show_icons=true&theme=midnight-purple" alt="tonnon stats"/> &nbsp;
   <img width=342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&hide_border=false&theme=midnight-purple" alt="tonnon most languages" />
 </div>
 
