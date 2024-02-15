@@ -61,7 +61,7 @@
 </div>
 
  <div align="center">
-  ![Snake animation](https://github.com/tonnon/tonnon/blob/output/github-contribution-grid-snake.svg)
+  https://github.com/tonnon/tonnon/blob/output/github-contribution-grid-snake.svg
  </div>
 
 </div>
