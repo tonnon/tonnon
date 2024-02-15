@@ -52,10 +52,9 @@
 <div>
   <img src="https://streak-stats.demolab.com?user=tonnon&theme=dark&hide_border=true&card_width=595&ring=7452A0&fire=7452A0&background=45%2C000000%2C110A12A9&stroke=7452A0&currStreakLabel=7452A0" alt="GitHub Streak" />
    
-  
-  
-  <img width=400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages"/>
-&nbsp; 
+  &nbsp;
+
+  <img width=400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages" />
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
 </div>
 
