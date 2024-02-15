@@ -47,7 +47,7 @@
 
 <br>
 
-⚙️ &nbsp;GitHub Analytics
+<p align="center"> ⚙️ &nbsp;GitHub Analytics </p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tonnon&theme=dark&hide_border=true&card_width=595&ring=7452A0&fire=7452A0&background=45%2C000000%2C110A12A9&stroke=7452A0&currStreakLabel=7452A0" alt="GitHub Streak" />
