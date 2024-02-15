@@ -54,7 +54,7 @@
 </div>  
   &nbsp;
 
-  
+<div align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=tonnon&show_icons=true&theme=midnight-purple" alt="tonnon stats"/>
   <img width=400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&theme=midnight-purple" alt="tonnon most languages" />
 </div>
