@@ -1,7 +1,7 @@
 <p align="center"> 🔥 Front-End Developer 🔥 </p>
 
 <p>
-  <img height="490" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" />
+  <img height="690" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" />
 </p>
   
 <p>
