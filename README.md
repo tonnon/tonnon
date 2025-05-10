@@ -5,10 +5,6 @@
 | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3) | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical) |
 |:--:|:--:|
 
- <img width="450em" src="https://github-readme-stats.vercel.app/api?username=tonnon&hide_border=false&border_stroke=00000&show_icons=true&theme=midnight-purple" alt="tonnon stats"/> 
- <img width=342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnon&layout=compact&hide_border=false&theme=midnight-purple" alt="tonnon most languages" /> 
-
-
 <br>
 
 <p align="center"> 🛠 &nbsp;Tech Stack </p>
