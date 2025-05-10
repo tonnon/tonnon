@@ -1,8 +1,6 @@
 <p align="center"> 🔥 Front-End Developer 🔥 </p>
 
-<p>
-  <img height="660" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" />
-</p>
+![Status](./profile-3d-contrib/profile-night-green.svg)
   
 | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3) | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical) |
 |:--:|:--:|
