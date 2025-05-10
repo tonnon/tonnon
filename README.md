@@ -4,11 +4,8 @@
   <img height="660" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" />
 </p>
   
-<p>
-  <img height="190" style="vertical-align: top;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3" />
-  <img height="190" style="vertical-align: top;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical" />
-</p>
-
+| ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3) | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical) |
+|:--:|:--:|
 
 <div>
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=tonnon&hide_border=false&border_stroke=00000&show_icons=true&theme=midnight-purple" alt="tonnon stats"/> &nbsp;
