@@ -5,8 +5,6 @@
 | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3) | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical) |
 |:--:|:--:|
 
-<br>
-
 <p align="center"> 🛠 &nbsp;Tech Stack </p>
 
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
