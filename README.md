@@ -6,7 +6,7 @@
  
 <p>
   <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3" />
-  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical" />
+  <img width="420" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical" />
 </p>
 
 
