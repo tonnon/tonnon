@@ -4,10 +4,11 @@
   
 
  
-<p>
-  <img width="450" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3" />
-  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical" />
+<p align="center">
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical" />
 </p>
+
 
 <div align="center">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=tonnon&hide_border=false&border_stroke=00000&show_icons=true&theme=midnight-purple" alt="tonnon stats"/> &nbsp;
