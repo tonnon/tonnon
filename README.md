@@ -4,7 +4,7 @@
   
 
  
-<p align="center">
+<p>
   <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonnon&theme=radical&utcOffset=-3" />
   <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonnon&theme=radical" />
 </p>
