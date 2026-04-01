@@ -74,3 +74,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+![eb7f0ccf927c93aeedbb3cf100d6fd29](https://github.com/user-attachments/assets/5f394b57-aa88-4032-93ab-6aef29d17c7b)
+
