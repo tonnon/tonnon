@@ -1,4 +1,4 @@
-<p align="center"> 🔥 Front-End Developer 🔥 </p>
+<p align="center"> 🔥 Software Enginee 🔥 </p>
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
   
