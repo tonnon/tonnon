@@ -1,4 +1,4 @@
-<p align="center"> 🔥 Software Enginee 🔥 </p>
+<p align="center"> 🔥 Software Engineer 🔥 </p>
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
   
